@@ -205,7 +205,7 @@ plugins:
     enabled: true
     options:
       links:
-        GitHub: https://github.com/HutTwoThreeFour
+        GitHub: https://github.com/personne-lambda
     layout:
       position: footer
       priority: 50
